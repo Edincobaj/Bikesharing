@@ -17,3 +17,7 @@ The following story from my [dashboard](https://public.tableau.com/app/profile/e
 ![Pic 5](https://user-images.githubusercontent.com/41974323/151255093-4c85f3b4-1878-467e-af65-c827250cf177.PNG)
 - In this comparison we can see that there is some change in concentration of bikes going from the city to the buroughs, this shows that there will be a need to transport bikes.
 ![Pic 6](https://user-images.githubusercontent.com/41974323/151256042-e479ff14-21c6-47ae-8119-5026232d07bf.PNG)
+
+## High-Level Summary
+
+
