@@ -19,5 +19,6 @@ The following story from my [dashboard](https://public.tableau.com/app/profile/e
 ![Pic 6](https://user-images.githubusercontent.com/41974323/151256042-e479ff14-21c6-47ae-8119-5026232d07bf.PNG)
 
 ## High-Level Summary
-
-
+According to our analysis it makes sense to place bike stations in high-density areas of the city, we also see that bikes are heavily used for commuting so this will
+have to be taken into account when deciding where to place stations. We going to want to set up a subscription based service as most users in NYC tend to be subscribers.
+Due to the changing concentration levels of bikes throughout the city, we'll have to move bikes back to high demand stations to keep up with the commuting bikers.
